@@ -9,7 +9,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class HelloJavaFX extends Application {
+public class FXAPP extends Application {
     // UPDATE THESE WITH YOUR ACTUAL DETAILS
     private final String STUDENT_NAME = "Madalitso Mwamba";
     private final String STUDENT_NUMBER = "202503353";
